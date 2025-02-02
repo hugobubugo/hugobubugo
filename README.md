@@ -1,6 +1,5 @@
 <h1 align='center'>Hello, my name is Hugo Gabriel!</h1>
-<p align='center'> About me:</p>
-<p align='center'>
+<p> About me:</p>
 <ul>
   <li>Full stack developer</li>
   <li>20 years old</li>
@@ -8,7 +7,6 @@
   <li>music lover</li>
 </ul>
 <hr>
-  </p>
 <h1 align='center' >PRINCIPAIS TECNOLOGIAS!</h1>
 
 <div align= 'center' display = "inline">
